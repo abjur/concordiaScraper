@@ -1,0 +1,7 @@
+.Rproj.user
+data-raw/itamaraty_*
+data-raw/zip/
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
