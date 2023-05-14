@@ -22,3 +22,5 @@ Imports:
 Depends: 
     R (>= 2.10)
 LazyData: true
+URL: https://github.com/abjur/concordiaScraper
+BugReports: https://github.com/abjur/concordiaScraper/issues
